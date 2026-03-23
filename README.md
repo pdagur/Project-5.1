@@ -1,8 +1,11 @@
-Hypothesis:
+Jupyter Notebook Link:
+https://github.com/pdagur/Project-5.1/blob/main/Project5.1-CoupanAnanlysis.ipynb
 
-Based on all observations in this analysis, here is the comprehensive profile of drivers who accept bar coupons:
+# Hypothesis/Findings:
 
-Primary Characteristics
+## Based on all observations in this analysis, here is the comprehensive profile of drivers who accept bar coupons:
+
+### Primary Characteristics
 
 1. Frequency of visits (Strong Indicator)
    - Already go to bars frequently (more than once per month)
